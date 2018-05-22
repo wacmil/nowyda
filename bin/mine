@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /xmr-stak/build/bin
+sudo ./xmr-stak
