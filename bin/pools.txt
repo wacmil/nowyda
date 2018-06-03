@@ -15,7 +15,7 @@
  
 "pool_list" :
 [
-	{"pool_address" : "xmr.crypto-pool.fr:8888", "wallet_address" : "44W55DsBrmSEwQ6jbDqSXUXfWVwzJqeFZesx9ZibPAkHGKFLFJVTY4u8SNyKeGhKLBiPeK4seSpLJLwHayPSMBuK5w81Yje", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "pool.supportxmr.com:3333", "wallet_address" : "44bJSrsZfC7Nutt5HUGzdQaSkkJ84ijXPdAqBAh9T6X7K3De859r8wg84VsQagqxK7VEqgmWteV4V2acPk4GxcPoRQdhgZF", "rig_id" : "", "pool_password" : "wacmil2@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
